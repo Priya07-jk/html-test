@@ -1,3 +1,3 @@
 This is my first html project
 <br>
-Author = Priya Chopra
+Author = Priya Chopra (git )
